@@ -1,7 +1,7 @@
 # Projet de Migration sur le Cloud des services d'une entreprise : Cas du DAAS de l'Université de Lomé
 
 ## I - Introduction : Contexte actuel et Problématique
-Le **DAAS** est le Service des inscriptions en ligne de l'Université de Lomé. Il gère les inscriptions des étudiants et stocke leurs dossiers académiques depuis leur inscription jusqu’à l’obtention de leur dernier diplôme. Ces sauvegardes sont cruciales pour la continuité des services administratifs à long terme.
+La **DAAS** est le Service des inscriptions de l'Université de Lomé. Il gère les inscriptions des étudiants et stocke leurs dossiers académiques depuis leur inscription jusqu’à l’obtention de leur dernier diplôme. Ces sauvegardes sont cruciales pour la continuité des services administratifs à long terme.
 
 ### 1- Infrastructure actuelle
 Actuellement, le système est hébergé sur un serveur local situé au **CIC**. Ce service requiert 
@@ -93,6 +93,6 @@ La migration vers le cloud permettra au **DAAS** d'améliorer la disponibilité,
 ---
 
 ## Auteurs
-- **AGNEKITOM Tilabalo**
+- **AGNEKITOM Tchilabalo**
 - **ADOGLI Caleb Yao**
 - **ESSOAZINA Abdul Kabir**
